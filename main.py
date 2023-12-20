@@ -1,5 +1,5 @@
 def main():
-    book_path = "books/Frankenstein.txt"
+    book_path = "/home/maximviazovoi/workspace/github.com/MaximViazovoi/bookbot/books/Frankenstein.txt"
     text = get_book_text(book_path)
     num_words = get_num_words(text)
     chars_dict = get_chars_dict(text)
