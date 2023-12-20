@@ -15,6 +15,7 @@ def main():
         print(f"The '{item['char']}' character was found {item['num']} times")
 
     print("--- End report ---")
+    print("End Report!")
 
 
 def get_num_words(text):
